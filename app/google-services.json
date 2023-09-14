@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942610257676",
+    "project_id": "mobilt-kotlin-22",
+    "storage_bucket": "mobilt-kotlin-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942610257676:android:04b822e108c171121f9b29",
+        "android_client_info": {
+          "package_name": "se.gritacademy.firestorekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942610257676-i40eq3cv18bqcrlr9ll57cfagqikl0na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTp1SfzDb2c8Oey17HIirX4xn0mOxiMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942610257676-i40eq3cv18bqcrlr9ll57cfagqikl0na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
